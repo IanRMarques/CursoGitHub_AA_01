@@ -1,0 +1,4 @@
+01) O que é um repositório?
+02) Qual a diferenteça entre o Git e Github?
+03) Porque utilizar controle de versão para os arquivos de um projeto de desenvolvimento de software? 
+04) Quais vantagens você enxerga no Git? Você utilizaria em seu projeto? 
